@@ -4,6 +4,6 @@
 
 ## A. Basisconcepten
 
-- Voer het commando Get-Help uit (zonder parameters). Welke parameter kan je gebruiken bij dit commando om de Online versie van een helppagina in de browser te openen?
+- Voer het commando Get-Help uit (zonder parameters). Welke parameter kan je gebruiken bij dit commando om de Online versie van een helppagina in de browser te openen?:
 
   get-help get-help -online
